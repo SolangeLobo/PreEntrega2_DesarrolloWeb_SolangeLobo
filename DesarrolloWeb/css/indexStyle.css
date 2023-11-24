@@ -21,6 +21,12 @@ header nav a
     color: black;
     font-size: 35px;
     margin: 100px;
+    text-decoration: none;
+}
+
+header nav a:hover
+{
+    text-decoration: underline;
 }
 
 header nav h1
