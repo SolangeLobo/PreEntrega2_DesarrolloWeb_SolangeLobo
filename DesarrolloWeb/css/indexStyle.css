@@ -35,23 +35,24 @@ header nav h1
     font-size: 75px;
 }
 
-main article.Repuestos p
+main section.Repuestos p
 {
     font-size: 75px;
-    color: rgb(12, 154, 193);
+    color: rgb(73, 120, 133);
     padding: 25px;
     text-align: center;
 }
 
-main article.Repuestos form
+div.carousel-fade
 {
-    display: flex;
-    justify-content: center;
+    left: 35%;
+    width: 30%;
+    height: 400px;
 }
 
-main article.Repuestos form img
+.img-custom
 {
-    padding: 25px;
+    height: 400px;
 }
 
 main article.Ofertas 
