@@ -1,0 +1,102 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+header
+{
+    padding: 5px;
+    background-color:lightblue;
+}
+
+header nav 
+{
+  text-align: center;
+}
+
+
+header nav a
+{
+    color: black;
+    font-size: 35px;
+    margin: 100px;
+}
+
+header nav h1
+{
+    color: rgb(12, 154, 193);
+    font-size: 75px;
+}
+
+main article.Nosotros 
+{
+    display: flex;
+    justify-content: left;
+}
+
+main article.Nosotros form h1
+{
+    font-size: 40px;
+    color: rgb(12, 154, 193);
+}
+
+main article.Nosotros form fieldset
+{
+    font-size: 30px;
+}
+
+main article.Origen
+{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+
+main article.Origen form h1
+{
+    font-size: 40px;
+    color: rgb(12, 154, 193);
+    text-align: center;
+}
+
+main article.Origen form fieldset
+{
+    font-size: 30px;
+}
+
+main article.Servicio
+{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+main article.Servicio form h1
+{
+    font-size: 40px;
+    color: rgb(12, 154, 193);
+    text-align: center;
+    margin: 10px;
+}
+
+main article.Servicio form fieldset
+{
+    font-size: 30px;
+}
+
+main article.Servicio form fieldset ul li
+{
+    padding: 5px;
+    display: flex;
+    justify-content: left;
+}
+
+main article.MetodosDePago
+{
+    padding: 25px;
+    font-size: 30px;
+    text-align: left;
+}
+

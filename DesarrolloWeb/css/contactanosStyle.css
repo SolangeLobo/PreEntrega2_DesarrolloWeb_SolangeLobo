@@ -1,0 +1,67 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+header
+{
+    padding: 5px;
+    background-color:lightblue;
+}
+
+header nav 
+{
+  text-align: center;
+}
+
+
+header nav a
+{
+    color: black;
+    font-size: 35px;
+    margin: 100px;
+}
+
+header nav h1
+{
+    color: rgb(12, 154, 193);
+    font-size: 75px;
+}
+
+
+main 
+{
+    padding: 5px;
+}
+
+main h1 
+{
+    color: rgb(12, 154, 193);
+    font-size: 40px;
+}
+
+
+main article form fieldset
+{
+    background-color:lightblue;
+    padding: 20px;
+}
+
+main article form fieldset label
+{
+    font-size: large;
+}
+
+main article form fieldset input
+{
+   margin: 10px;
+}
+
+main article form fieldset button
+{
+   width: 150px;
+   height: 50px;
+   font-size: 15px;
+}
+

@@ -1,0 +1,116 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+header
+{
+    padding: 5px;
+    background-color:lightblue;
+}
+
+header nav 
+{
+  text-align: center;
+}
+
+
+header nav a
+{
+    color: black;
+    font-size: 35px;
+    margin: 100px;
+}
+
+header nav h1
+{
+    color: rgb(12, 154, 193);
+    font-size: 75px;
+}
+
+main form h1
+{
+    color: rgb(12, 154, 193);
+    font-size: 45px;
+    text-align: center;
+    padding: 25px;
+}
+
+main form h2
+{
+    color: rgb(12, 154, 193);
+    font-size: 35px;
+    text-align: center;
+    word-spacing: 1000px;
+}
+
+main article form div.MiCuenta
+{
+    padding-left: 630px;
+    font-size: 20px;
+    display: flex;
+}
+
+main article form div.MiCuenta label.NuevoUsuario
+{
+    padding-left: 800px;
+}
+
+main article form div.MiCuentaInputField 
+{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 630px;
+    width: 1300px;
+    height: 20px;
+}
+
+main article form div.Contraseña
+{
+    padding-left: 630px;
+    padding-bottom: 25px;
+    font-size: 20px;
+}
+
+
+main article form div.Acceder
+{
+    padding-left: 760px;
+}
+
+main article form div.Acceder button
+{
+    width: 120px;
+    height: 40px;
+    font-size: 20px;
+    color: white;
+    background-color: rgb(12, 154, 193);
+}
+
+main article form div.Registrarse
+{
+    padding-left: 1765px;
+}
+
+main article form div.Registrarse button
+{
+    width: 120px;
+    height: 40px;
+    font-size: 20px;
+    color: white;
+    background-color: rgb(12, 154, 193);
+}
+
+main article form div.Recuerdame
+{ 
+    padding-left: 760px;
+    font-size: 20px;
+}
+
+main article form div.Recuerdame p.Instrucciones
+{ 
+    padding-left: 1005px;
+}
+
+
